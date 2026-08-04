@@ -24,7 +24,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: rhellokitty
-          games: "puzzle-bobble"
+          games: 'galaga'
 
       - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
