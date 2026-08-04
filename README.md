@@ -7,13 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://rzadaffa.netlify.app">Portfolio</a>
-  ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  ·
-  <a href="https://www.tiktok.com/@rzadaffa_">TikTok</a>
-  ·
-  <a href="mailto:muhammadrajadaffa@gmail.com">Email</a>
+  <a href="https://rzadaffa.netlify.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-1E88E5?style=flat-square" alt="Portfolio" /></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.tiktok.com/@rzadaffa_"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" /></a>
+  <a href="mailto:muhammadrajadaffa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
 ## Tech Stack
