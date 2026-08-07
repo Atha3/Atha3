@@ -10,7 +10,8 @@ Full Stack Developer from Indonesia
 <p align="center">
   <a href="https://atha3.github.io/Personal-Portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-1E88E5?style=flat-square" alt="Portfolio" /></a>
   <a href="https://www.tiktok.com/@bgikyy5"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" alt="TikTok" /></a>
-  <a href="https://instagram.com/bg_ikyy2/"><img src="https://shields.io" alt="Instagram" /></a>
+  <a href="https://instagram.com/bg_ikyy2">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ## Tech Stack
