@@ -4,7 +4,7 @@ Full Stack Developer from Indonesia
 <!-- <h1 align="center">Athaillah Rizki Syandana</h1> -->
 <p align="center">
   <!-- <strong>Rza</strong><br /> -->
-  ☕ Coding Enthusiast | 🎨 UI/UX | 🚀 Frontend developer
+  ☕ Coding Enthusiast | 🎨 UI/UX | 🚀 Fullstack developer
 </p>
 
 <p align="center">
